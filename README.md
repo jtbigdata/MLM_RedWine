@@ -5,7 +5,7 @@ Bienvenido al repositorio del proyecto sobre modelos de machine learning en una 
 
 ## Descripción
 Este repositorio contiene un conjunto de scripts donde solamente se han creado un modelo de Regresión Logistica
-([Data Set](https://www.kaggle.com/datasets/uciml/red-wine-quality-cortez-et-al-2009)).
+[Data Set](https://www.kaggle.com/datasets/uciml/red-wine-quality-cortez-et-al-2009).
 
 ## Contenido del Repositorio
 - [Data Notebook](https://github.com/jtbigdata/CancerDiagnostico/blob/main/CancerDiagnostico.ipynb](https://github.com/jtbigdata/MLM_RedWine/blob/main/MLM_RedWine.ipynb): Cuaderno Jupyter con los modelos de Machine Learning.
