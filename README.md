@@ -8,7 +8,7 @@ Este repositorio contiene un conjunto de scripts donde solamente se han creado u
 [Data Set](https://www.kaggle.com/datasets/uciml/red-wine-quality-cortez-et-al-2009).
 
 ## Contenido del Repositorio
-- [Data Notebook](https://github.com/jtbigdata/CancerDiagnostico/blob/main/CancerDiagnostico.ipynb](https://github.com/jtbigdata/MLM_RedWine/blob/main/MLM_RedWine.ipynb): Cuaderno Jupyter con los modelos de Machine Learning.
+- [Data Notebook](https://github.com/jtbigdata/MLM_RedWine/blob/main/MLM_RedWine.ipynb): Cuaderno Jupyter con los modelos de Machine Learning.
 <!-- Agrega más elementos según sea necesario -->
 
 
